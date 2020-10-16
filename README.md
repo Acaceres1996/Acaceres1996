@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=acaceres1996)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Acaceres1996/Acaceres1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
